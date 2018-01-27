@@ -1,12 +1,12 @@
 # InvestmentCaseStudy
 Spark Funds - asset management
 
-# Project Brief
+## Project Brief
 You work for Spark Funds, an asset management company. Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
  
 
-# Business and Data Understanding
+## Business and Data Understanding
 Spark Funds has two minor constraints for investments:
 
 It wants to invest between 5 to 15 million USD per round of investment
@@ -20,11 +20,11 @@ You may use this list: Click here for a list of countries where English is an of
 These conditions will give you sufficient information for your initial analysis. Before getting to specific questions, let’s understand the problem and the data first.
 
  
-# 1. What is the strategy?
+## 1. What is the strategy?
 
 Spark Funds wants to invest where most other investors are investing. This pattern is often observed among early stage startup investors.
 
-# 2. What is Spark Funds’ business objective?
+## 2. What is Spark Funds’ business objective?
 
 The business objectives and goals of data analysis are pretty straightforward.
 
@@ -34,7 +34,7 @@ Investment type analysis: Comparing the typical investment amounts in the ventur
 Country analysis: Identifying the countries which have been the most heavily invested in the past. These will be Spark Funds’ favourites as well.
 Sector analysis: Understanding the distribution of investments across the eight main sectors. (Note that we are interested in the eight 'main sectors' provided in the mapping file. The two files — companies and rounds2 — have numerous sub-sector names; hence, you will need to map each sub-sector to its main sector.)
 
-# 3. Tables
+## 3. Tables
 
 companies: A table with basic data of companies
 rounds2: Funding round details
